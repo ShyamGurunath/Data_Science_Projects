@@ -1,6 +1,6 @@
 ## My personal projects in Data science
 
-1.Predicting Credit Card Approval
-2.House Price Predcition
+  - Predicting Credit Card Approval
+  - House Price Predcition
 
 
